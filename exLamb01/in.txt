@@ -1,0 +1,5 @@
+Maria,maria@gmail.com,3200.00
+Alex,alex@live.com,1900.00
+Marco,marco@live.com,1700
+Bob,bob@gmail.com,3500.0
+Anna,anna@live.com,2800.00
